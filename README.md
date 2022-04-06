@@ -22,5 +22,6 @@ Weather data:
 [redux-thunk](https://redux.js.org/docs/introduction#using-thunk) |
 [redux-devtools-extension](https://chrome.google.com/webstore/detail/redux-devtools/lmhkpmbekcpmknklioeibfkpmmfibljd?hl=en) |
 [bulma](https://bulma.io/) |
+[ghpages](https://pages.github.com/)
 
 ## Usage
