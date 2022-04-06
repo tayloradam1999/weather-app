@@ -14,7 +14,7 @@ Weather data:
 ## Packages Used
 [axios](https://axios-http.com/docs/intro) |
 [react](https://reactjs.org/docs/getting-started.html) |
-[Typescript](https://www.typescriptlang.org/) |
+[typescript](https://www.typescriptlang.org/) |
 [react-dom](https://reactjs.org/docs/getting-started.html) |
 [react-redux](https://react-redux.js.org/introduction) |
 [react-scripts](https://react-scripts.netlify.com/docs/getting-started) |
