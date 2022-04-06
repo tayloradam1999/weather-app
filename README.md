@@ -25,3 +25,4 @@ Weather data:
 [ghpages](https://pages.github.com/)
 
 ## Usage
+Visit the deployed webpage at [https://tayloradam1999.github.io/weather-app/](https://tayloradam1999.github.io/weather-app/)
