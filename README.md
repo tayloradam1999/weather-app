@@ -16,7 +16,6 @@ Weather data:
 - Wind speed (m/s)
   
 ## Packages Used
-[axios](https://axios-http.com/docs/intro) |
 [react](https://reactjs.org/docs/getting-started.html) |
 [typescript](https://www.typescriptlang.org/) |
 [react-dom](https://reactjs.org/docs/getting-started.html) |
