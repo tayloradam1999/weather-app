@@ -3,7 +3,7 @@
 A React-Typescript application that allows users to enter any city name and get the current weather.
 
 I built this web app as I have been going through *Holberton School's Full-Stack Web Dev Curriculum*, and while learning ```React```, I felt
-it might be a good idea to make an application ```React``` and ```Typescript``` in conjunction with one another, as we don't have many projects
+it might be a good idea to make an application with ```React``` and ```Typescript``` in conjunction with one another, as we don't have many projects
 dealing with ```Typescript```.
   
 Weather data is provided by [openweathermap.org](https://openweathermap.org/).
