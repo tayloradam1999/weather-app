@@ -17,7 +17,7 @@ const App: FC = () => {
   const alertMsg = useSelector((state: RootState) => state.alert.message);
 
   return (
-    <div className="has-text-centered" style={{ backgroundColor: '#AA828E', minHeight: '100vh' }}>
+    <div className="has-text-centered" style={{ backgroundColor: '#e5ccca', minHeight: '100vh' }}>
       <Search title="Enter a city then press the search button!" />
       {loading ? <h2 className="is-size-3 py-2">Loading...</h2> : weatherData && <Weather data={weatherData} />}
 

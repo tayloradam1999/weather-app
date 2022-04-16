@@ -28,7 +28,7 @@ const Search: FC<SearchProps> = ({ title }) => {
   }
 
   return (
-    <div className="hero is-light has-text-centered" style={{ backgroundColor: '#AA828E' }}>
+    <div className="hero is-light has-text-centered" style={{ backgroundColor: '#e5ccca' }}>
       <div className="hero-body">
         <div className="container">
           <h1 className="title">{title}</h1>
